@@ -1,4 +1,4 @@
 # Roman Numeral Converter
 
-About Roman Numerals:
+About roman numerals:
 https://www.mathsisfun.com/roman-numerals.html
